@@ -1,0 +1,13 @@
+[project]
+name = "ffi-project"
+version = "0.1.0"
+authors = [
+    { name = "MovingJu", email = "movingju06@gmail.com" }
+]
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10.17"
+dependencies = [
+    "pybind11>=3.0.0",
+    "setuptools>=80.9.0",
+]
